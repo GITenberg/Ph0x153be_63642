@@ -1,5 +1,8 @@
 _repo: Ph0x153be_63642
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63642-h/images/cover.jpg
 creator:
   author:
     agent_name: Gates, Eleanor
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6218
     wikipedia: https://en.wikipedia.org/wiki/Eleanor_Gates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63642#Ph0x153be
 gutenberg_issued: '2020-11-05'
 gutenberg_type: Text
 identifiers:
